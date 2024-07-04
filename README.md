@@ -69,9 +69,9 @@ Finally, we can make a prediction by simply creating a list of responses and tes
 
 Results:
 
-The results show that the predictions meet optimal percentages in both models used together, giving more strength to the generated hypothesis. It is important to highlight that this process is not definitive, and the experts who participated in this research emphasized that these results should not be taken as absolute. While they are preventive, a more in-depth analysis should be conducted on a case-by-case basis. However, these results can be integrated as priority findings to address.
+The results show that the predictions meet optimal percentages in both models used together, giving more strength to the generated hypothesis. It is important to highlight that this process is not definitive, and the experts who participated in this research emphasized that these results should not be taken as absolute. While they are preventive, a more in-depth analysis should be conducted on a case-by-case basis. However, these results can be integrated as priority to address the patient.
 
-In our machine learning, we have Naive Bayes with a high recall of 1. This may indicate overfitting (especially due to the level of loss) and we may be obtaining many positives, which drastically reduces precision.
+In the Naive Bayes method, we have a recall of 1. This may indicate overfitting (especially due to the level of loss) and we may be obtaining many positives, which drastically reduces precision.
 
 Scope of the Information:
 
